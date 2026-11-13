@@ -1,0 +1,8 @@
+{
+  "name": "YWAM Land of Canaan - Internet Subscription Manager",
+  "description": "Internet subscription and payment tracking system for YWAM Land of Canaan subscribers, rates (MGA), data consumption, and payment history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
